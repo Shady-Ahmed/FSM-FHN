@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 16 16:04:56 2020
 
-Forward Sensitivity Method for the parameter estimation of the FitzHugh-Nagumo Model with Fixed Input/Excitation
+Forward Sensitivity Method for the parameter estimation of the FitzHugh-Nagumo Model with Time-Varying Input/Excitation
 For more details, please check our paper: 
     "Forward Sensitivity Analysis of the FitzHugh–Nagumo System: Parameter Estimation"
     By: Shady E. Ahmed, Omer San, and Sivaramakrishnan Lakshmivarahan 
